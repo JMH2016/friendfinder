@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Amoxicillin',
+		photo: 'http://e.lvme.me/681udep.jpg',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'Doxycycline',
+		photo: 'https://pics.me.me/tb-doxycycline-thats-all-12973890.png',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Cephalexin',
+		photo: 'https://pbs.twimg.com/media/DXiADp1XcAE7swi.jpg',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Ciprofloxacin',
+		photo: 'https://memegenerator.net/img/instances/63033008/ciprofloxacin-and-benzos-do-not-mix.jpg',
 		scores: [
 			'5',
 			'1',
@@ -65,8 +65,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Cloe',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		name: 'Clindamycin',
+		photo: 'https://memegenerator.net/img/instances/23695327/i-reported-the-mrsa-isolate-was-clindamycin-sensitive-should-have-done-a-d-test.jpg',
 		scores: [
 			'1',
 			'1',
@@ -81,8 +81,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Mrs. Piggy',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		name: 'Metronidazole',
+		photo: 'https://memegenerator.net/img/instances/56962380/clostridium-difficile-metronidazole.jpg',
 		scores: [
 			'1',
 			'1',
@@ -97,8 +97,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Beyonce Knowles',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		name: 'Azithromycin',
+		photo: 'https://cdn.someecards.com/someecards/usercards/MjAxMi02OGZiYjM3MWQyN2JlNDI0.png',
 		scores: [
 			'5',
 			'4',
@@ -113,8 +113,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Adele Adkins',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		name: 'Sulfamethoxazole/trimethoprim',
+		photo: 'https://memegenerator.net/img/instances/63382159/all-these-guys-in-the-front-end-den-taking-sulfamethoxazoletrimethoprim-and-here-i-am-just-drinking-.jpg',
 		scores: [
 			'5',
 			'2',
@@ -129,8 +129,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Kermit the Frog',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		name: 'Amoxicillin/clavulanate',
+		photo: 'https://i.imgflip.com/1vq0bx.jpg',
 		scores: [
 			'5',
 			'5',
@@ -145,8 +145,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Elmo',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		name: 'Levofloxacin',
+		photo: 'https://memegenerator.net/img/instances/63817969/levofloxacin-its-climbing-in-your-tissues-snapping-your-tendons-up.jpg',
 		scores: [
 			'1',
 			'1',
